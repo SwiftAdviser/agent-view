@@ -1,0 +1,17 @@
+{
+  "name": "agent-view",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Chrome extension for seeing pages as AI agents read them with Markdown for Agents.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "zip": "node scripts/package.mjs"
+  },
+  "keywords": [
+    "markdown-for-agents",
+    "chrome-extension",
+    "ai-seo",
+    "llm",
+    "agent-view"
+  ]
+}

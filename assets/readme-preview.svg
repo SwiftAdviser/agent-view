@@ -1,0 +1,13 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#F7F5EF"/>
+  <text x="80" y="150" fill="#151515" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800">See what AI agents read.</text>
+  <text x="84" y="214" fill="#47433D" font-family="Inter, Arial, sans-serif" font-size="28">One switch turns the current page into Markdown.</text>
+  <rect x="80" y="292" width="1040" height="318" rx="10" fill="#111111"/>
+  <rect x="80" y="292" width="1040" height="58" rx="10" fill="#111111"/>
+  <line x1="80" y1="350" x2="1120" y2="350" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="112" y="330" fill="#F5F2EA" fill-opacity="0.62" font-family="Inter, Arial, sans-serif" font-size="20">Server Markdown · 3150 tokens</text>
+  <text x="112" y="414" fill="#F5F2EA" font-family="Menlo, Consolas, monospace" font-size="26" font-weight="700"># Introducing Markdown for Agents</text>
+  <text x="112" y="470" fill="#F5F2EA" font-family="Menlo, Consolas, monospace" font-size="22">The way content and businesses are discovered online is changing.</text>
+  <text x="112" y="532" fill="#F5F2EA" font-family="Menlo, Consolas, monospace" font-size="24" font-weight="700">## Why markdown is important</text>
+  <text x="112" y="586" fill="#F5F2EA" font-family="Menlo, Consolas, monospace" font-size="22">AI agents need structure, not layout noise.</text>
+</svg>
