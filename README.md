@@ -47,6 +47,17 @@ npm run zip
 
 The packaged extension is written to `dist/agent-view-extension.zip`.
 
+## Store Assets
+
+Chrome Web Store upload assets are in `store-assets/`:
+
+- `screenshot-1280x800.png`
+- `screenshot-640x400.png`
+- `small-promo-440x280.png`
+- `marquee-promo-1400x560.png`
+
+All are 24-bit PNG files without alpha.
+
 ## Chrome Web Store
 
 Name: `Agent View: Markdown for Agents`
