@@ -23,8 +23,10 @@ if (manifest.manifest_version !== 3) {
   throw new Error("manifest_version must be 3");
 }
 
-if (!manifest.host_permissions?.includes("https://*/*")) {
-  throw new Error("host_permissions must include https://*/*");
+for (const permission of ["activeTab", "scripting"]) {
+  if (!manifest.permissions?.includes(permission)) {
+    throw new Error(`permissions must include ${permission}`);
+  }
 }
 
 console.log("Extension manifest is valid.");
